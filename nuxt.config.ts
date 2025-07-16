@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 
   uiPro: {
     license: process.env.MY_ENVIRONMENT_VARIABLE
-  }
+  },
 
   content: {
     build: {
