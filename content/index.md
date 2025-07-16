@@ -1,8 +1,7 @@
 ---
 seo:
-  title: Nuxt Docs Template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top
-    of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: Technology Development Docs
+  description: Tech Design and Development
 ---
 
 ::u-page-hero
